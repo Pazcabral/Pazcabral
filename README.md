@@ -9,7 +9,7 @@
 
 :dart: My professional goal is to continue to grow as a Data Analyst and enrich the projects I am part of by providing a social perspective that offers a deeper and more comprehensive understanding of the analyzed problems and helps make informed decisions based on data.
 
-Languages and Tools: </h3>
+🛠️ Languages and Tools: </h3>
   <img alt="Static Badge" src="https://img.shields.io/badge/Python%20-%20blue?style=for%20the%20badge&logo=Python&logoColor=white">
 </a>
   <img alt="Static Badge" src="https://img.shields.io/badge/SQL%20-%20red?style=for%20the%20badge&logo=Microsoft%20SQL%20Server&logoColor=white">
